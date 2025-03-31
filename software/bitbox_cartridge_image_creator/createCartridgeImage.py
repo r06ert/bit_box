@@ -1,5 +1,5 @@
 # @author: Robert Zdunek
-# @project: make bit box image
+# @project: bit box
 # @date: 16.03.2025
 
 import numpy as np
